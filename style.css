@@ -1,0 +1,455 @@
+body{
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #013b87;
+    border-radius: 10px;
+}
+
+.multilingual-options{
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    margin: 2px;
+}
+
+.nav-link{
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    margin: 2px;
+}
+
+.navbar {
+    padding: 0;
+}
+
+.dropdown {
+    display: inline-block;
+    position: relative;
+}
+
+/*.dropdown-menu {*/
+/*    width: 1100px;*/
+/*    height: 350px;*/
+
+/*}*/
+
+.country-icon{
+    width: 30px;
+    height: 15px;
+}
+
+/*.dropdown-menu{*/
+/*    padding-left: 15px;*/
+/*    padding-right: 15px;*/
+/*}*/
+
+.dropdown-item{
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.block{
+    /*text-decoration: none;*/
+    color: black;
+}
+.online-banking{
+    font-size: 12px;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 45px;
+}
+
+.combank-logo{
+    width: 200px;
+    height: 50px;
+
+}
+.carousel-caption{
+    top: 280px;
+    left: 520px;
+}
+
+.service-button .btn{
+    height: 150px;
+    width: 200px;
+    border: none;
+    box-shadow: 0 0 20px 10px rgba(0,0,0,0.05);
+
+}
+
+/*Secondary menu container*/
+
+.menu-container i{
+    font-size: 22px;
+    color: #9fa0a8;
+    transition: all 0.5s linear;
+
+}
+
+.menu-btn{
+    border: none;
+    padding: 10px;
+    background: #f8f9fa;
+}
+
+.menu-link{
+    text-decoration: none;
+    color: #9fa0a8;
+}
+
+
+.menu-btn:hover .menu-link{
+    color: #0958c4;
+    transform: scale(1.2);
+}
+
+.menu-btn:hover i{
+    transform: scale(1.2);
+    color: #0958c4;
+}
+
+/*Input section*/
+
+.according-btn-1{
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+    background: white;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.05);
+    transition: 0.3s;
+}
+
+.according-btn-1:hover{
+    animation: pulse 1s infinite;
+    transition: 0.3s;
+}
+
+.according-btn-2{
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+    background: #f7d700;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.05);
+    transition: 0.3s;
+}
+.according-btn-2:hover{
+    animation: pulse 1s infinite;
+    transition: 0.3s;
+}
+
+@keyframes pulse{
+    0%{
+        transform: scale(1);
+    }
+    70%{
+        transform: scale(0.9);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+
+
+.according-btn-2{
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+    background: #f7d700;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.05);
+    transition: all 2s linear;
+}
+
+.according-btn-2:hover{
+    box-shadow: 0 0 20px 10px rgba(0,0,0,0.05);
+    transform: scale(1.5);
+}
+
+
+
+/*Account buttons*/
+.service-button .title{
+    color: black;
+}
+
+.service-button .btn:hover .title{
+    color: white;
+}
+
+.service-button i{
+    font-size: 60px;
+}
+
+/*Card service*/
+.card-button .btn{
+    margin-left: 50px;
+    position: relative;
+    height: 260px;
+    width: 380px;
+    box-shadow: 0 0 20px 10px rgba(0,0,0,0.05);
+    cursor: pointer;
+    border: none;
+    overflow: hidden;
+    transition: 1s;
+}
+
+.card-img1{
+    position: absolute;
+    left: -180px;
+    top: 60px;
+    width: 100%;
+}
+
+.title{
+    font-size: 12px;
+}
+.card-button .btn:hover{
+    box-shadow: 0 0 20px 10px rgba(0,0,0,0.05);
+    transform: scale(0.9);
+}
+
+
+
+.card-button .btn:hover .title{
+    color: white;
+}
+
+.card-button .btn:hover .topic{
+    color: white;
+}
+
+.button{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    padding-right: 50px;
+    padding-left: 20px;
+    border: solid 2px white;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 12px;
+}
+
+
+.menu-images{
+    width: 25px;
+}
+
+.banner{
+    background-color: #094aa4;
+}
+
+/* Banner section */
+.carousel-banner-slide .carousel-indicators{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+.carousel-indicators-1{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+
+
+
+
+
+/*App section*/
+
+.mobile-icon{
+    width: 400px;
+}
+
+.card-image-top{
+    width: 100px;
+}
+
+.app-icon{
+    width: 100px;
+}
+
+
+
+.btn-bd-light:hover {
+    background-color: white;
+    border: none;
+}
+
+
+
+/*.card-img1{*/
+/*    width: 200px;*/
+/*    height: 200px;*/
+/*}*/
+
+.icon1{
+    width: 100px;
+}
+
+.icon2{
+    width: 150px;
+    height: 45px;
+}
+
+.app:hover{
+    background: white;
+}
+
+
+
+.top-footer{
+    background-color: #0e2e5a;
+}
+
+.footer-head{
+    font-size: 16px;
+}
+
+
+.footer-link{
+    color: #d2d8d9;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+    text-underline: none;
+}
+
+.link-secondary{
+    font-size: 13px;
+}
+
+ul {
+    list-style-type: none;
+}
+.viber{
+    width:24px;
+}
+
+.bottom-footer{
+    background-color: #051123;
+}
+
+.web-logo{
+    width: 100px;
+}
+
+
+
+
+
+
+/*Chat with logo fixed*/
+
+.box{
+    position: fixed;
+    width: 200px;
+    height: 100px;
+    bottom: 0;
+    right: 0;
+    overflow: hidden;
+    margin: 10px;
+    
+}
+
+.box img{
+    width: 200px;
+    height: 100px;
+    transition: all linear 0.05s;
+}
+
+
+.box hover-img{
+    width: 200px;
+    height: 150px;
+}
+
+img.hover-img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0 ;
+}
+
+.box:hover img{
+    opacity: 0;
+}
+
+.box:hover img.hover-img{
+    opacity: 1;
+}
+
+
+/*floating contact details*/
+
+.social{
+    position: fixed;
+    right: 0;
+    top: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transform: translate(260px,0);
+
+}
+
+
+.social a{
+    color: #3c3c3c;
+    background-color: #f7f8f8;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    display: block;
+    margin: 5px;
+    padding: 8px;
+    width: 300px;
+    text-align: left;
+    border-radius: 50px;
+    transition: 1s;
+
+}
+
+.social a:hover{
+    transform: translate(-140px, 0);
+
+}
+
+.social i{
+    margin-right: 10px ;
+    font-size: 30px;
+    width: 30px;
+    height: 30px;
+    color: #005fea;
+
+}
+

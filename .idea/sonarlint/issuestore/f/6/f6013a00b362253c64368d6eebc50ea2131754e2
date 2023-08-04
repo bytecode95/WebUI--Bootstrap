@@ -1,0 +1,425 @@
+
+@Web:HeaderCheck"&Add or update the header of this file.8Κ©Θα›1
+‰	Web:S1829"hReplace this absolute URI "href" with a relative one, or move this absolute URI to a configuration file.(Δπ‰υÿÿÿÿÿ8ªΘα›1
+‰	Web:S1829"hReplace this absolute URI "href" with a relative one, or move this absolute URI to a configuration file.(½αÿ£ϊÿÿÿÿ8ªΘα›1
+‰	Web:S1829
+"hReplace this absolute URI "href" with a relative one, or move this absolute URI to a configuration file.(Ò“Λÿÿÿÿÿ8ªΘα›1
+	Web:S1829"gReplace this absolute URI "src" with a relative one, or move this absolute URI to a configuration file.(‰¤–ªύÿÿÿÿ8ªΘα›1
+gWeb:WhiteSpaceAroundCheck";A whitespace is missing after the starting tag at column 4.(„μ¦8ªΘα›1
+EWeb:WhiteSpaceAroundCheck"Add a space at column 14.(„μ¦8ªΘα›1
+bWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(Χμ‰8ªΘα›1
+gWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(‡¦φώώÿÿÿÿ8ªΘα›1
+bWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(ςΞÒυ8ªΘα›1
+YWeb:InternationalizationCheck")Define this label in the resource bundle.(ςΞÒυ8ªΘα›1
+gWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(ύΝϊ©ψÿÿÿÿ8ªΘα›1
+bWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(ΧΑ8ªΘα›1
+gWeb:LinkToNothingCheck!"9Give this link a valid reference or remove the reference.(ά£ύαύÿÿÿÿ8ªΘα›1
+^Web:InternationalizationCheck!")Define this label in the resource bundle.(ά£ύαύÿÿÿÿ8ªΘα›1
+bWeb:LinkToNothingCheck$"9Give this link a valid reference or remove the reference.(ΦΔ§«8ªΘα›1
+YWeb:InternationalizationCheck$")Define this label in the resource bundle.(ΦΔ§«8ªΘα›1
+gWeb:LinkToNothingCheck'"9Give this link a valid reference or remove the reference.(΄―ΐ®ÿÿÿÿÿ8ªΘα›1
+^Web:InternationalizationCheck'")Define this label in the resource bundle.(΄―ΐ®ÿÿÿÿÿ8ªΘα›1
+bWeb:LinkToNothingCheck*"9Give this link a valid reference or remove the reference.(Ò‹Ε8ªΘα›1
+bWeb:LinkToNothingCheck-"9Give this link a valid reference or remove the reference.(ΈΦ‰Φ8ªΘα›1
+OWeb:BoldAndItalicTagsCheck7"Replace this <i> tag by <em>.(ÒνΚςϋÿÿÿÿ8ªΘα›1
+m Web:ImgWithoutWidthOrHeightCheck>":Add both a 'width' and a 'height' attribute to this image.(ΉφΡÒ8ªΘα›1
+OWeb:BoldAndItalicTagsCheck?"Replace this <i> tag by <em>.(’»ƒωÿÿÿÿ8ªΘα›1
+bWeb:LinkToNothingCheckB"9Give this link a valid reference or remove the reference.(σ–Σ8ªΘα›1
+m Web:ImgWithoutWidthOrHeightCheckB":Add both a 'width' and a 'height' attribute to this image.(σ–Σ8ªΘα›1
+bWeb:LinkToNothingCheckC"9Give this link a valid reference or remove the reference.( ·†“8ªΘα›1
+m Web:ImgWithoutWidthOrHeightCheckC":Add both a 'width' and a 'height' attribute to this image.( ·†“8ªΘα›1
+YWeb:InternationalizationCheckC")Define this label in the resource bundle.( ·†“8ªΘα›1
+gWeb:LinkToNothingCheckD"9Give this link a valid reference or remove the reference.(³‹Οθόÿÿÿÿ8ªΘα›1
+r Web:ImgWithoutWidthOrHeightCheckD":Add both a 'width' and a 'height' attribute to this image.(³‹Οθόÿÿÿÿ8ªΘα›1
+^Web:InternationalizationCheckD")Define this label in the resource bundle.(³‹Οθόÿÿÿÿ8ªΘα›1
+bWeb:LinkToNothingCheckE"9Give this link a valid reference or remove the reference.(μΝΞΡ8ªΘα›1
+m Web:ImgWithoutWidthOrHeightCheckE":Add both a 'width' and a 'height' attribute to this image.(μΝΞΡ8ªΘα›1
+YWeb:InternationalizationCheckE")Define this label in the resource bundle.(μΝΞΡ8ªΘα›1
+^Web:InternationalizationCheckL")Define this label in the resource bundle.(’Òÿ’ϋÿÿÿÿ8ªΘα›1
+YWeb:InternationalizationCheckN")Define this label in the resource bundle.(άβΖ²8ªΘα›1
+YWeb:InternationalizationCheckO")Define this label in the resource bundle.(Χ—«ι8ªΘα›1
+gWeb:WhiteSpaceAroundCheckV";A whitespace is missing after the starting tag at column 4.(€—„Ν8ªΘα›1
+EWeb:WhiteSpaceAroundCheckV"Add a space at column 17.(€—„Ν8ªΘα›1
+aWeb:LinkToNothingCheck_"9Give this link a valid reference or remove the reference.(ίΣ‚8ªΘα›1
+},Web:MouseEventWithoutKeyboardEquivalentCheck_"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.(ίΣ‚8ªΘα›1
+bWeb:LinkToNothingChecke"9Give this link a valid reference or remove the reference.(ΗΗ€π8ªΘα›1
+JWeb:BoldAndItalicTagsChecke"Replace this <i> tag by <em>.(ΗΗ€π8ªΘα›1
+gWeb:LinkToNothingCheckf"9Give this link a valid reference or remove the reference.(όΟΛεÿÿÿÿÿ8ªΘα›1
+OWeb:BoldAndItalicTagsCheckf"Replace this <i> tag by <em>.(όΟΛεÿÿÿÿÿ8ªΘα›1
+gWeb:LinkToNothingCheckg"9Give this link a valid reference or remove the reference.(σ‹οΐψÿÿÿÿ8ªΘα›1
+OWeb:BoldAndItalicTagsCheckg"Replace this <i> tag by <em>.(σ‹οΐψÿÿÿÿ8ªΘα›1
+bWeb:LinkToNothingCheckh"9Give this link a valid reference or remove the reference.(€΄εά8ªΘα›1
+JWeb:BoldAndItalicTagsCheckh"Replace this <i> tag by <em>.(€΄εά8ªΘα›1
+gWeb:LinkToNothingChecki"9Give this link a valid reference or remove the reference.(Ύήήχϋÿÿÿÿ8ªΘα›1
+OWeb:BoldAndItalicTagsChecki"Replace this <i> tag by <em>.(Ύήήχϋÿÿÿÿ8§ªΘα›1
+gWeb:LinkToNothingCheckj"9Give this link a valid reference or remove the reference.(€άÿΑϊÿÿÿÿ8§ªΘα›1
+OWeb:BoldAndItalicTagsCheckj"Replace this <i> tag by <em>.(€άÿΑϊÿÿÿÿ8§ªΘα›1
+gWeb:LinkToNothingCheckk"9Give this link a valid reference or remove the reference.(°¨ι³ϋÿÿÿÿ8§ªΘα›1
+bWeb:LinkToNothingCheckp"9Give this link a valid reference or remove the reference.(²Β«8§ªΘα›1
+gWeb:LinkToNothingCheckq"9Give this link a valid reference or remove the reference.(ΣΈµγόÿÿÿÿ8§ªΘα›1
+gWeb:LinkToNothingCheckr"9Give this link a valid reference or remove the reference.(χΏ­•ωÿÿÿÿ8©ªΘα›1
+bWeb:LinkToNothingChecks"9Give this link a valid reference or remove the reference.(Ιώ”8©ªΘα›1
+bWeb:LinkToNothingCheckt"9Give this link a valid reference or remove the reference.(ρΝχ²8©ªΘα›1
+gWeb:LinkToNothingCheckz"9Give this link a valid reference or remove the reference.(ΊΎµΙÿÿÿÿÿ8©ªΘα›1
+bWeb:LinkToNothingCheck{"9Give this link a valid reference or remove the reference.(δ¥Άε8©ªΘα›1
+cWeb:LinkToNothingCheck€"9Give this link a valid reference or remove the reference.(―η³Ζ8©ªΘα›1
+cWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(©ΫόΉ8©ªΘα›1
+hWeb:LinkToNothingCheck‚"9Give this link a valid reference or remove the reference.(€Σώÿÿÿÿ8©ªΘα›1
+hWeb:LinkToNothingCheckƒ"9Give this link a valid reference or remove the reference.(Θ¨Ψ ϊÿÿÿÿ8©ªΘα›1
+hWeb:LinkToNothingCheck„"9Give this link a valid reference or remove the reference.(μΕΪϋÿÿÿÿ8©ªΘα›1
+hWeb:LinkToNothingCheck‰"9Give this link a valid reference or remove the reference.(±Ιίϊÿÿÿÿ8©ªΘα›1
+hWeb:LinkToNothingCheck‘"9Give this link a valid reference or remove the reference.(ΙΓεΘόÿÿÿÿ8©ªΘα›1
+„,Web:MouseEventWithoutKeyboardEquivalentCheck‘"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.(ΙΓεΘόÿÿÿÿ8©ªΘα›1
+cWeb:LinkToNothingCheck—"9Give this link a valid reference or remove the reference.(Όΰΐ8©ªΘα›1
+KWeb:BoldAndItalicTagsCheck—"Replace this <i> tag by <em>.(Όΰΐ8©ªΘα›1
+cWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(›έ8©ªΘα›1
+KWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(›έ8©ªΘα›1
+cWeb:LinkToNothingCheck™"9Give this link a valid reference or remove the reference.(π³ο8©ªΘα›1
+KWeb:BoldAndItalicTagsCheck™"Replace this <i> tag by <em>.(π³ο8©ªΘα›1
+hWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(¥η¦Òώÿÿÿÿ8©ªΘα›1
+_Web:InternationalizationCheck")Define this label in the resource bundle.(¥η¦Òώÿÿÿÿ8©ªΘα›1
+PWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(¥η¦Òώÿÿÿÿ8©ªΘα›1
+hWeb:LinkToNothingCheck›"9Give this link a valid reference or remove the reference.(†εΈωÿÿÿÿ8©ªΘα›1
+_Web:InternationalizationCheck›")Define this label in the resource bundle.(†εΈωÿÿÿÿ8©ªΘα›1
+PWeb:BoldAndItalicTagsCheck›"Replace this <i> tag by <em>.(†εΈωÿÿÿÿ8©ªΘα›1
+hWeb:LinkToNothingCheck΅"9Give this link a valid reference or remove the reference.(¬®ϋÿÿÿÿÿ8©ªΘα›1
+cWeb:LinkToNothingCheckΆ"9Give this link a valid reference or remove the reference.(ι΄Ει8©ªΘα›1
+bWeb:LinkToNothingCheck£"9Give this link a valid reference or remove the reference.(ΜΣΧ8©ªΘα›1
+hWeb:LinkToNothingCheck¤"9Give this link a valid reference or remove the reference.(σ•κηώÿÿÿÿ8©ªΘα›1
+cWeb:LinkToNothingCheck¥"9Give this link a valid reference or remove the reference.(¥Ήυ²8©ªΘα›1
+_Web:InternationalizationCheckª")Define this label in the resource bundle.(ίτμψÿÿÿÿ8©ªΘα›1
+cWeb:LinkToNothingCheck«"9Give this link a valid reference or remove the reference.(Β‚ε8©ªΘα›1
+hWeb:LinkToNothingCheck¬"9Give this link a valid reference or remove the reference.(σ¬Φ‡ÿÿÿÿÿ8©ªΘα›1
+_Web:InternationalizationCheck¬")Define this label in the resource bundle.(σ¬Φ‡ÿÿÿÿÿ8©ªΘα›1
+cWeb:LinkToNothingCheck­"9Give this link a valid reference or remove the reference.(ο¥Ϊ 8©ªΘα›1
+ZWeb:InternationalizationCheck­")Define this label in the resource bundle.(ο¥Ϊ 8©ªΘα›1
+bWeb:LinkToNothingCheck®"9Give this link a valid reference or remove the reference.(’µΠS8©ªΘα›1
+hWeb:LinkToNothingCheck―"9Give this link a valid reference or remove the reference.(‰Δϋÿÿÿÿ8©ªΘα›1
+cWeb:LinkToNothingCheck°"9Give this link a valid reference or remove the reference.(ψ‹ΝΩ8©ªΘα›1
+cWeb:LinkToNothingCheck±"9Give this link a valid reference or remove the reference.( °Ρ8©ªΘα›1
+ZWeb:InternationalizationCheckµ")Define this label in the resource bundle.(΅θ8©ªΘα›1
+hWeb:LinkToNothingCheck¶"9Give this link a valid reference or remove the reference.(ΐμΉ‚ωÿÿÿÿ8©ªΘα›1
+cWeb:LinkToNothingCheck·"9Give this link a valid reference or remove the reference.(πχΏ8©ªΘα›1
+hWeb:LinkToNothingCheckΈ"9Give this link a valid reference or remove the reference.(¦ƒε™ψÿÿÿÿ8©ªΘα›1
+hWeb:LinkToNothingCheckΉ"9Give this link a valid reference or remove the reference.(Ά²Ε•ψÿÿÿÿ8©ªΘα›1
+cWeb:LinkToNothingCheckΊ"9Give this link a valid reference or remove the reference.(ι©γϋ8©ªΘα›1
+hWeb:LinkToNothingCheckΏ"9Give this link a valid reference or remove the reference.(‘©–ζϊÿÿÿÿ8©ªΘα›1
+cWeb:LinkToNothingCheckΐ"9Give this link a valid reference or remove the reference.(π™Δ8©ªΘα›1
+hWeb:LinkToNothingCheckΑ"9Give this link a valid reference or remove the reference.(τΩΕµύÿÿÿÿ8©ªΘα›1
+hWeb:LinkToNothingCheckΒ"9Give this link a valid reference or remove the reference.(έτ·Λωÿÿÿÿ8©ªΘα›1
+hWeb:LinkToNothingCheckΓ"9Give this link a valid reference or remove the reference.(‚βτθώÿÿÿÿ8©ªΘα›1
+bWeb:LinkToNothingCheckΘ"9Give this link a valid reference or remove the reference.(ΒΞ€H8©ªΘα›1
+hWeb:LinkToNothingCheckΙ"9Give this link a valid reference or remove the reference.(ωίΦÿÿÿÿÿ8©ªΘα›1
+hWeb:LinkToNothingCheckΚ"9Give this link a valid reference or remove the reference.(φ‚Όθψÿÿÿÿ8©ªΘα›1
+hWeb:LinkToNothingCheckΤ"9Give this link a valid reference or remove the reference.(ΙΓεΘόÿÿÿÿ8©ªΘα›1
+„,Web:MouseEventWithoutKeyboardEquivalentCheckΤ"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.(ΙΓεΘόÿÿÿÿ8©ªΘα›1
+cWeb:LinkToNothingCheckΫ"9Give this link a valid reference or remove the reference.(Όΰΐ8©ªΘα›1
+KWeb:BoldAndItalicTagsCheckΫ"Replace this <i> tag by <em>.(Όΰΐ8©ªΘα›1
+cWeb:LinkToNothingCheckά"9Give this link a valid reference or remove the reference.(›έ8©ªΘα›1
+KWeb:BoldAndItalicTagsCheckά"Replace this <i> tag by <em>.(›έ8©ªΘα›1
+cWeb:LinkToNothingCheckέ"9Give this link a valid reference or remove the reference.(π³ο8©ªΘα›1
+KWeb:BoldAndItalicTagsCheckέ"Replace this <i> tag by <em>.(π³ο8©ªΘα›1
+hWeb:LinkToNothingCheckή"9Give this link a valid reference or remove the reference.(¥η¦Òώÿÿÿÿ8©ªΘα›1
+_Web:InternationalizationCheckή")Define this label in the resource bundle.(¥η¦Òώÿÿÿÿ8©ªΘα›1
+PWeb:BoldAndItalicTagsCheckή"Replace this <i> tag by <em>.(¥η¦Òώÿÿÿÿ8ΉªΘα›1
+hWeb:LinkToNothingCheckί"9Give this link a valid reference or remove the reference.(†εΈωÿÿÿÿ8ΉªΘα›1
+_Web:InternationalizationCheckί")Define this label in the resource bundle.(†εΈωÿÿÿÿ8ΉªΘα›1
+PWeb:BoldAndItalicTagsCheckί"Replace this <i> tag by <em>.(†εΈωÿÿÿÿ8ΉªΘα›1
+hWeb:LinkToNothingCheckε"9Give this link a valid reference or remove the reference.(¬®ϋÿÿÿÿÿ8ΉªΘα›1
+cWeb:LinkToNothingCheckζ"9Give this link a valid reference or remove the reference.(ι΄Ει8ΉªΘα›1
+bWeb:LinkToNothingCheckη"9Give this link a valid reference or remove the reference.(ΜΣΧ8ΉªΘα›1
+hWeb:LinkToNothingCheckθ"9Give this link a valid reference or remove the reference.(σ•κηώÿÿÿÿ8ΉªΘα›1
+cWeb:LinkToNothingCheckι"9Give this link a valid reference or remove the reference.(¥Ήυ²8ΉªΘα›1
+hWeb:LinkToNothingCheckρ"9Give this link a valid reference or remove the reference.(ΙΓεΘόÿÿÿÿ8ΉªΘα›1
+„,Web:MouseEventWithoutKeyboardEquivalentCheckρ"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.(ΙΓεΘόÿÿÿÿ8ΉªΘα›1
+ZWeb:InternationalizationCheckς")Define this label in the resource bundle.(Ήψζ™8ΉªΘα›1
+cWeb:LinkToNothingCheckψ"9Give this link a valid reference or remove the reference.(υψ΅8ΉªΘα›1
+hWeb:LinkToNothingCheckω"9Give this link a valid reference or remove the reference.(―¬β½ÿÿÿÿÿ8ΉªΘα›1
+hWeb:LinkToNothingCheckϊ"9Give this link a valid reference or remove the reference.(ΥΘϊΨόÿÿÿÿ8ΉªΘα›1
+hWeb:LinkToNothingCheckϋ"9Give this link a valid reference or remove the reference.(Αδ«³ωÿÿÿÿ8ΉªΘα›1
+hWeb:LinkToNothingCheckό"9Give this link a valid reference or remove the reference.(Όβμψÿÿÿÿ8ΉªΘα›1
+_Web:InternationalizationCheckό")Define this label in the resource bundle.(Όβμψÿÿÿÿ8ΉªΘα›1
+cWeb:LinkToNothingCheckύ"9Give this link a valid reference or remove the reference.(πΦοΓ8ΉªΘα›1
+cWeb:LinkToNothingCheckώ"9Give this link a valid reference or remove the reference.(β—ΦΤ8ΉªΘα›1
+ZWeb:InternationalizationCheckώ")Define this label in the resource bundle.(β—ΦΤ8ΉªΘα›1
+hWeb:LinkToNothingCheckÿ"9Give this link a valid reference or remove the reference.(Π΅Νοψÿÿÿÿ8ΉªΘα›1
+hWeb:LinkToNothingCheck€"9Give this link a valid reference or remove the reference.(–‡©ÿÿÿÿÿ8ΉªΘα›1
+_Web:InternationalizationCheck€")Define this label in the resource bundle.(–‡©ÿÿÿÿÿ8ΉªΘα›1
+cWeb:LinkToNothingCheck…"9Give this link a valid reference or remove the reference.(όη8ΉªΘα›1
+cWeb:LinkToNothingCheck†"9Give this link a valid reference or remove the reference.(®χΒ8ΉªΘα›1
+ZWeb:InternationalizationCheck†")Define this label in the resource bundle.(®χΒ8ΉªΘα›1
+cWeb:LinkToNothingCheck‡"9Give this link a valid reference or remove the reference.(Εª‚φ8ΉªΘα›1
+cWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(³ηΛο8ΉªΘα›1
+hWeb:LinkToNothingCheck‰"9Give this link a valid reference or remove the reference.(άΝ΄ϊÿÿÿÿ8ΉªΘα›1
+cWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(ΜΌΙβ8ΉªΘα›1
+hWeb:LinkToNothingCheck‹"9Give this link a valid reference or remove the reference.(άΘρύÿÿÿÿ8ΉªΘα›1
+hWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(†¥έ«όÿÿÿÿ8ΉªΘα›1
+cWeb:LinkToNothingCheck‘"9Give this link a valid reference or remove the reference.(τ²Ι8ΉªΘα›1
+hWeb:LinkToNothingCheck’"9Give this link a valid reference or remove the reference.(•δ†Νϋÿÿÿÿ8ΉªΘα›1
+cWeb:LinkToNothingCheck“"9Give this link a valid reference or remove the reference.(¶φΞ8ΉªΘα›1
+hWeb:LinkToNothingCheck”"9Give this link a valid reference or remove the reference.(¦›γίÿÿÿÿÿ8ΉªΘα›1
+cWeb:LinkToNothingCheck•"9Give this link a valid reference or remove the reference.(ξ·Δ•8ΉªΘα›1
+cWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(Ο„υΆ8ΉªΘα›1
+ZWeb:InternationalizationCheck")Define this label in the resource bundle.(Ο„υΆ8ΉªΘα›1
+hWeb:LinkToNothingCheck›"9Give this link a valid reference or remove the reference.(—Ό‹΅ϋÿÿÿÿ8ΉªΘα›1
+cWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(Ζ΅Ω8ΉªΘα›1
+ZWeb:InternationalizationCheck")Define this label in the resource bundle.(Ζ΅Ω8ΉªΘα›1
+hWeb:LinkToNothingCheck΅"9Give this link a valid reference or remove the reference.(Ξλθψÿÿÿÿ8ΉªΘα›1
+cWeb:LinkToNothingCheckΆ"9Give this link a valid reference or remove the reference.(ΧΠ²8ΉªΘα›1
+PWeb:BoldAndItalicTagsCheck«"Replace this <i> tag by <em>.(ªΏό€ψÿÿÿÿ8ΉªΘα›1
+s Web:ImgWithoutWidthOrHeightCheck°":Add both a 'width' and a 'height' attribute to this image.(Ώ§„όÿÿÿÿ8ΉªΘα›1
+mWeb:WhiteSpaceAroundCheck·";A whitespace is missing after the starting tag at column 4.(πΕ΅Ίψÿÿÿÿ8ΉªΘα›1
+KWeb:WhiteSpaceAroundCheck·"Add a space at column 12.(πΕ΅Ίψÿÿÿÿ8ΉªΘα›1
+n Web:ImgWithoutWidthOrHeightCheckΑ":Add both a 'width' and a 'height' attribute to this image.(Φ•ΤΠ8ΉªΘα›1
+PWeb:BoldAndItalicTagsCheckΓ"Replace this <i> tag by <em>.(ηΖ·βόÿÿÿÿ8ΉªΘα›1
+s Web:ImgWithoutWidthOrHeightCheckΗ":Add both a 'width' and a 'height' attribute to this image.(ίΫγ°ωÿÿÿÿ8ΉªΘα›1
+PWeb:BoldAndItalicTagsCheckΙ"Replace this <i> tag by <em>.(ηΖ·βόÿÿÿÿ8ΉªΘα›1
+m Web:ImgWithoutWidthOrHeightCheckΝ":Add both a 'width' and a 'height' attribute to this image.(θ³Ί<8ΉªΘα›1
+PWeb:BoldAndItalicTagsCheckΟ"Replace this <i> tag by <em>.(ηΖ·βόÿÿÿÿ8ΉªΘα›1
+s Web:ImgWithoutWidthOrHeightCheckΣ":Add both a 'width' and a 'height' attribute to this image.(Ϊμύÿÿÿÿ8ΉªΘα›1
+PWeb:BoldAndItalicTagsCheckΥ"Replace this <i> tag by <em>.(ηΖ·βόÿÿÿÿ8ΉªΘα›1
+mWeb:WhiteSpaceAroundCheckΫ";A whitespace is missing after the starting tag at column 4.( ±ωΛώÿÿÿÿ8ΉªΘα›1
+KWeb:WhiteSpaceAroundCheckΫ"Add a space at column 28.( ±ωΛώÿÿÿÿ8ΉªΘα›1
+hWeb:LinkToNothingCheckΰ"9Give this link a valid reference or remove the reference.(·©ΐωψÿÿÿÿ8ΉªΘα›1
+PWeb:BoldAndItalicTagsCheckΰ"Replace this <i> tag by <em>.(·©ΐωψÿÿÿÿ8ΉªΘα›1
+hWeb:LinkToNothingCheckη"9Give this link a valid reference or remove the reference.(Ί¤ΛΎωÿÿÿÿ8ΉªΘα›1
+cWeb:LinkToNothingCheckξ"9Give this link a valid reference or remove the reference.(ίΡ“Ώ8ΉªΘα›1
+cWeb:LinkToNothingCheckυ"9Give this link a valid reference or remove the reference.(ώΉθό8ΉªΘα›1
+cWeb:LinkToNothingCheckό"9Give this link a valid reference or remove the reference.(χΘί©8ΉªΘα›1
+mWeb:WhiteSpaceAroundCheck†";A whitespace is missing after the starting tag at column 4.(ννΟνϊÿÿÿÿ8ΙªΘα›1
+KWeb:WhiteSpaceAroundCheck†"Add a space at column 17.(ννΟνϊÿÿÿÿ8ΙªΘα›1
+PWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(†΄Δωÿÿÿÿ8ΙªΘα›1
+hWeb:LinkToNothingCheck’"9Give this link a valid reference or remove the reference.(Έρ‹ÿÿÿÿÿ8ΙªΘα›1
+hWeb:LinkToNothingCheck“"9Give this link a valid reference or remove the reference.(όξΓÿÿÿÿÿ8ΙªΘα›1
+_Web:InternationalizationCheck“")Define this label in the resource bundle.(όξΓÿÿÿÿÿ8ΙªΘα›1
+cWeb:LinkToNothingCheck”"9Give this link a valid reference or remove the reference.(ι΄Ει8ΙªΘα›1
+hWeb:LinkToNothingCheck•"9Give this link a valid reference or remove the reference.(«·Òΰωÿÿÿÿ8ΙªΘα›1
+_Web:InternationalizationCheck•")Define this label in the resource bundle.(«·Òΰωÿÿÿÿ8ΙªΘα›1
+hWeb:LinkToNothingCheck–"9Give this link a valid reference or remove the reference.(¦ςΌάύÿÿÿÿ8ΙªΘα›1
+PWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(»πΙÿÿÿÿÿ8ΙªΘα›1
+KWeb:BoldAndItalicTagsCheckΆ"Replace this <i> tag by <em>.(―έΔ8ΙªΘα›1
+_Web:InternationalizationCheck£")Define this label in the resource bundle.(Όθ‡—ϊÿÿÿÿ8ΙªΘα›1
+KWeb:BoldAndItalicTagsCheck§"Replace this <i> tag by <em>.(δε°8ΙªΘα›1
+PWeb:BoldAndItalicTagsCheck¬"Replace this <i> tag by <em>.(Έ‹°ύÿÿÿÿ8ΙªΘα›1
+_Web:InternationalizationCheck­")Define this label in the resource bundle.(ΥμψΝύÿÿÿÿ8ΙªΘα›1
+PWeb:BoldAndItalicTagsCheck±"Replace this <i> tag by <em>.(“΄―Φόÿÿÿÿ8ΙªΘα›1
+_Web:InternationalizationCheck²")Define this label in the resource bundle.(ΔΥ£Ήÿÿÿÿÿ8ΙªΘα›1
+PWeb:BoldAndItalicTagsCheckΘ"Replace this <i> tag by <em>.(ηΖ·βόÿÿÿÿ8ΙªΘα›1
+PWeb:BoldAndItalicTagsCheckΙ"Replace this <i> tag by <em>.(°„¬όÿÿÿÿ8ΙªΘα›1
+PWeb:BoldAndItalicTagsCheckΨ"Replace this <i> tag by <em>.(ηΖ·βόÿÿÿÿ8ΙªΘα›1
+PWeb:BoldAndItalicTagsCheckΩ"Replace this <i> tag by <em>.(°„¬όÿÿÿÿ8ΙªΘα›1
+PWeb:BoldAndItalicTagsCheckθ"Replace this <i> tag by <em>.(ηΖ·βόÿÿÿÿ8ΙªΘα›1
+PWeb:BoldAndItalicTagsCheckι"Replace this <i> tag by <em>.(°„¬όÿÿÿÿ8ΙªΘα›1
+n Web:ImgWithoutWidthOrHeightCheckρ":Add both a 'width' and a 'height' attribute to this image.(πΰ…8ΙªΘα›1
+hWeb:WhiteSpaceAroundCheckχ";A whitespace is missing after the starting tag at column 4.(—¶υ8ΙªΘα›1
+FWeb:WhiteSpaceAroundCheckχ"Add a space at column 18.(—¶υ8ΙªΘα›1
+gWeb:WhiteSpaceAroundCheck‚";A whitespace is missing after the starting tag at column 4.(ιΉΗ8ΙªΘα›1
+EWeb:WhiteSpaceAroundCheck‚"Add a space at column 21.(ιΉΗ8ΙªΘα›1
+n Web:ImgWithoutWidthOrHeightCheck":Add both a 'width' and a 'height' attribute to this image.(©¬Ί–8ΙªΘα›1
+cWeb:LinkToNothingCheck‘"9Give this link a valid reference or remove the reference.(¨Σ‰8ΙªΘα›1
+KWeb:BoldAndItalicTagsCheck‘"Replace this <i> tag by <em>.(¨Σ‰8ΙªΘα›1
+s Web:ImgWithoutWidthOrHeightCheck›":Add both a 'width' and a 'height' attribute to this image.(Σ“‡ήόÿÿÿÿ8ΙªΘα›1
+cWeb:LinkToNothingCheck "9Give this link a valid reference or remove the reference.(¨Σ‰8ΙªΘα›1
+KWeb:BoldAndItalicTagsCheck "Replace this <i> tag by <em>.(¨Σ‰8ΙªΘα›1
+n Web:ImgWithoutWidthOrHeightCheck©":Add both a 'width' and a 'height' attribute to this image.(΅Ϋ“8ΙªΘα›1
+cWeb:LinkToNothingCheck®"9Give this link a valid reference or remove the reference.(¨Σ‰8ΙªΘα›1
+KWeb:BoldAndItalicTagsCheck®"Replace this <i> tag by <em>.(¨Σ‰8ΙªΘα›1
+PWeb:BoldAndItalicTagsCheckµ"Replace this <i> tag by <em>.(Ϋ»Ζσόÿÿÿÿ8ΙªΘα›1
+n Web:ImgWithoutWidthOrHeightCheckΔ":Add both a 'width' and a 'height' attribute to this image.(ύΰΆχ8ΙªΘα›1
+s Web:ImgWithoutWidthOrHeightCheckΗ":Add both a 'width' and a 'height' attribute to this image.(Μ‘ωψÿÿÿÿ8ΙªΘα›1
+n Web:ImgWithoutWidthOrHeightCheckΚ":Add both a 'width' and a 'height' attribute to this image.(ΗÿΤ8ΙªΘα›1
+mWeb:WhiteSpaceAroundCheckΟ";A whitespace is missing after the starting tag at column 8.(­θ™½ωÿÿÿÿ8ΙªΘα›1
+KWeb:WhiteSpaceAroundCheckΟ"Add a space at column 19.(­θ™½ωÿÿÿÿ8ΙªΘα›1
+n Web:ImgWithoutWidthOrHeightCheckΧ":Add both a 'width' and a 'height' attribute to this image.(ξΛυ‡8ΙªΘα›1
+@Web:InlineStyleCheckΪ"Use CSS classes instead.(‹ι°8ΙªΘα›1
+n Web:ImgWithoutWidthOrHeightCheckΫ":Add both a 'width' and a 'height' attribute to this image.(ν‡‚λ8ΙªΘα›1
+s Web:ImgWithoutWidthOrHeightCheckί":Add both a 'width' and a 'height' attribute to this image.(βύ…Ίϋÿÿÿÿ8ΙªΘα›1
+s Web:ImgWithoutWidthOrHeightCheckΰ":Add both a 'width' and a 'height' attribute to this image.(Β®‚ψÿÿÿÿ8ΙªΘα›1
+PWeb:BoldAndItalicTagsCheckβ"Replace this <i> tag by <em>.(Γ¬ΒΞψÿÿÿÿ8ΙªΘα›1
+n Web:ImgWithoutWidthOrHeightCheckθ":Add both a 'width' and a 'height' attribute to this image.(Ρμ­‘8ΙªΘα›1
+s Web:ImgWithoutWidthOrHeightCheckι":Add both a 'width' and a 'height' attribute to this image.(ΖΦφ«ψÿÿÿÿ8ΙªΘα›1
+n Web:ImgWithoutWidthOrHeightCheckκ":Add both a 'width' and a 'height' attribute to this image.(Ò„µχ8ΙªΘα›1
+s Web:ImgWithoutWidthOrHeightCheckλ":Add both a 'width' and a 'height' attribute to this image.(¬π™ÿÿÿÿÿ8ΙªΘα›1
+s Web:ImgWithoutWidthOrHeightCheckμ":Add both a 'width' and a 'height' attribute to this image.(ίΥ™εωÿÿÿÿ8ΙªΘα›1
+_Web:InternationalizationCheckμ")Define this label in the resource bundle.(ίΥ™εωÿÿÿÿ8ΙªΘα›1
+s Web:ImgWithoutWidthOrHeightCheckν":Add both a 'width' and a 'height' attribute to this image.(‚ƒ‹Άωÿÿÿÿ8ΙªΘα›1
+_Web:InternationalizationCheckν")Define this label in the resource bundle.(‚ƒ‹Άωÿÿÿÿ8ΙªΘα›1
+s Web:ImgWithoutWidthOrHeightCheckξ":Add both a 'width' and a 'height' attribute to this image.(†ΒΑώÿÿÿÿ8ΙªΘα›1
+_Web:InternationalizationCheckξ")Define this label in the resource bundle.(†ΒΑώÿÿÿÿ8ΙªΘα›1
+hWeb:WhiteSpaceAroundCheckσ";A whitespace is missing after the starting tag at column 4.(ε½Λ8ΨªΘα›1
+EWeb:WhiteSpaceAroundCheckσ"Add a space at column 9.(ε½Λ8ΨªΘα›1
+„	Web:S1829τ"gReplace this absolute URI "src" with a relative one, or move this absolute URI to a configuration file.(ζÿª½8ΨªΘα›1
+hWeb:WhiteSpaceAroundCheckχ";A whitespace is missing after the starting tag at column 4.(ωΈε—8ΨªΘα›1
+FWeb:WhiteSpaceAroundCheckχ"Add a space at column 15.(ωΈε—8ΨªΘα›1
+„	Web:S1829ϊ"gReplace this absolute URI "src" with a relative one, or move this absolute URI to a configuration file.(χ ‰8ΨªΘα›1
+…	Web:S1829ϋ"hReplace this absolute URI "cite" with a relative one, or move this absolute URI to a configuration file.(‹«Ω8ΨªΘα›1
+…	Web:S1829ϋ"hReplace this absolute URI "href" with a relative one, or move this absolute URI to a configuration file.(‹«Ω8ΨªΘα›1
+hWeb:WhiteSpaceAroundCheckÿ";A whitespace is missing after the starting tag at column 4.(Ά‹­™8ΨªΘα›1
+FWeb:WhiteSpaceAroundCheckÿ"Add a space at column 20.(Ά‹­™8ΨªΘα›1
+s Web:ImgWithoutWidthOrHeightCheck†":Add both a 'width' and a 'height' attribute to this image.(Ί–®ÿÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheck‡"9Give this link a valid reference or remove the reference.(¤βτ΄ύÿÿÿÿ8ΨªΘα›1
+n Web:ImgWithoutWidthOrHeightCheck":Add both a 'width' and a 'height' attribute to this image.(ΜΨΕ8ΨªΘα›1
+cWeb:LinkToNothingCheck‹"9Give this link a valid reference or remove the reference.(ώ―Ζ8ΨªΘα›1
+s Web:ImgWithoutWidthOrHeightCheck":Add both a 'width' and a 'height' attribute to this image.(ΨθΌδψÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(®ξόÿÿÿÿ8ΨªΘα›1
+KWeb:WhiteSpaceAroundCheck•"Add a space at column 19.(ÿ ¤«ωÿÿÿÿ8ΨªΘα›1
+cWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(ΌΈΜ8ΨªΘα›1
+KWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(ΌΈΜ8ΨªΘα›1
+cWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(ΡγΞ‡8ΨªΘα›1
+KWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(ΡγΞ‡8ΨªΘα›1
+hWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(Β’Νκϊÿÿÿÿ8ΨªΘα›1
+PWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(Β’Νκϊÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheck"9Give this link a valid reference or remove the reference.(ΰµΤ—ωÿÿÿÿ8ΨªΘα›1
+PWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(ΰµΤ—ωÿÿÿÿ8ΨªΘα›1
+cWeb:LinkToNothingCheck "9Give this link a valid reference or remove the reference.(Ω’ψΎ8ΨªΘα›1
+KWeb:BoldAndItalicTagsCheck "Replace this <i> tag by <em>.(Ω’ψΎ8ΨªΘα›1
+bWeb:LinkToNothingCheck΅"9Give this link a valid reference or remove the reference.(ΉΝ―8ΨªΘα›1
+m Web:ImgWithoutWidthOrHeightCheck΅":Add both a 'width' and a 'height' attribute to this image.(ΉΝ―8ΨªΘα›1
+bWeb:LinkToNothingCheck¨"9Give this link a valid reference or remove the reference.(ρ¬*8ΨªΘα›1
+?Web:InlineStyleCheck¨"Use CSS classes instead.(ρ¬*8ΨªΘα›1
+hWeb:LinkToNothingCheck©"9Give this link a valid reference or remove the reference.(Βΰ·†ϊÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheck©"Use CSS classes instead.(Βΰ·†ϊÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheckª"9Give this link a valid reference or remove the reference.(ΊχγΎÿÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheckª"Use CSS classes instead.(ΊχγΎÿÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheck«"9Give this link a valid reference or remove the reference.(•ΗΨ›ÿÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheck«"Use CSS classes instead.(•ΗΨ›ÿÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheck¬"9Give this link a valid reference or remove the reference.(¦φϋÿÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheck¬"Use CSS classes instead.(¦φϋÿÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheck­"9Give this link a valid reference or remove the reference.(ΛΫ¤ωÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheck­"Use CSS classes instead.(ΛΫ¤ωÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheck®"9Give this link a valid reference or remove the reference.(κƒνÿÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheck®"Use CSS classes instead.(κƒνÿÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheck²"9Give this link a valid reference or remove the reference.(ΙΊΊέϋÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheck²"Use CSS classes instead.(ΙΊΊέϋÿÿÿÿ8ΨªΘα›1
+bWeb:LinkToNothingCheck³"9Give this link a valid reference or remove the reference.(οΓΰ8ΨªΘα›1
+?Web:InlineStyleCheck³"Use CSS classes instead.(οΓΰ8ΨªΘα›1
+hWeb:LinkToNothingCheck΄"9Give this link a valid reference or remove the reference.(²§®ƒϋÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheck΄"Use CSS classes instead.(²§®ƒϋÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheckµ"9Give this link a valid reference or remove the reference.(®ƒΖ»ψÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheckµ"Use CSS classes instead.(®ƒΖ»ψÿÿÿÿ8ΨªΘα›1
+bWeb:LinkToNothingCheck¶"9Give this link a valid reference or remove the reference.(ήΧ.8ΨªΘα›1
+?Web:InlineStyleCheck¶"Use CSS classes instead.(ήΧ.8ΨªΘα›1
+cWeb:LinkToNothingCheck·"9Give this link a valid reference or remove the reference.(‰¦ΰ8ΨªΘα›1
+@Web:InlineStyleCheck·"Use CSS classes instead.(‰¦ΰ8ΨªΘα›1
+hWeb:LinkToNothingCheckΈ"9Give this link a valid reference or remove the reference.(Λ ϊÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheckΈ"Use CSS classes instead.(Λ ϊÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheckΌ"9Give this link a valid reference or remove the reference.(Ò”ƒΤωÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheckΌ"Use CSS classes instead.(Ò”ƒΤωÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheck½"9Give this link a valid reference or remove the reference.(ά³ςÿÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheck½"Use CSS classes instead.(ά³ςÿÿÿÿÿ8ΨªΘα›1
+_Web:InternationalizationCheck½")Define this label in the resource bundle.(ά³ςÿÿÿÿÿ8ΨªΘα›1
+bWeb:LinkToNothingCheckΎ"9Give this link a valid reference or remove the reference.(°¦Ζ8ΨªΘα›1
+?Web:InlineStyleCheckΎ"Use CSS classes instead.(°¦Ζ8ΨªΘα›1
+hWeb:LinkToNothingCheckΏ"9Give this link a valid reference or remove the reference.(ΈΨοεÿÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheckΏ"Use CSS classes instead.(ΈΨοεÿÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheckΐ"9Give this link a valid reference or remove the reference.(Ο®ªϊÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheckΐ"Use CSS classes instead.(Ο®ªϊÿÿÿÿ8ΨªΘα›1
+cWeb:LinkToNothingCheckΕ"9Give this link a valid reference or remove the reference.(ΉΫΏ8ΨªΘα›1
+@Web:InlineStyleCheckΕ"Use CSS classes instead.(ΉΫΏ8ΨªΘα›1
+cWeb:LinkToNothingCheckΖ"9Give this link a valid reference or remove the reference.(‹――8ΨªΘα›1
+@Web:InlineStyleCheckΖ"Use CSS classes instead.(‹――8ΨªΘα›1
+cWeb:LinkToNothingCheckΗ"9Give this link a valid reference or remove the reference.(Λδ›Ω8ΨªΘα›1
+@Web:InlineStyleCheckΗ"Use CSS classes instead.(Λδ›Ω8ΨªΘα›1
+cWeb:LinkToNothingCheckΘ"9Give this link a valid reference or remove the reference.(ƒςΦ8ΨªΘα›1
+@Web:InlineStyleCheckΘ"Use CSS classes instead.(ƒςΦ8ΨªΘα›1
+cWeb:LinkToNothingCheckΙ"9Give this link a valid reference or remove the reference.(†Υ8ΨªΘα›1
+@Web:InlineStyleCheckΙ"Use CSS classes instead.(†Υ8ΨªΘα›1
+hWeb:LinkToNothingCheckΞ"9Give this link a valid reference or remove the reference.(Ò”ƒΤωÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheckΞ"Use CSS classes instead.(Ò”ƒΤωÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheckΟ"9Give this link a valid reference or remove the reference.(ά³ςÿÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheckΟ"Use CSS classes instead.(ά³ςÿÿÿÿÿ8ΨªΘα›1
+hWeb:LinkToNothingCheckΠ"9Give this link a valid reference or remove the reference.(Ο®ªϊÿÿÿÿ8ΨªΘα›1
+EWeb:InlineStyleCheckΠ"Use CSS classes instead.(Ο®ªϊÿÿÿÿ8ΨªΘα›1
+cWeb:LinkToNothingCheckΡ"9Give this link a valid reference or remove the reference.(ΔΌς8ΨªΘα›1
+@Web:InlineStyleCheckΡ"Use CSS classes instead.(ΔΌς8ΨªΘα›1
+hWeb:LinkToNothingCheckÒ"9Give this link a valid reference or remove the reference.(π‹—©ϊÿÿÿÿ8θªΘα›1
+EWeb:InlineStyleCheckÒ"Use CSS classes instead.(π‹—©ϊÿÿÿÿ8θªΘα›1
+s Web:ImgWithoutWidthOrHeightCheckΪ":Add both a 'width' and a 'height' attribute to this image.(γΠ‹Άϊÿÿÿÿ8θªΘα›1
+FWeb:WhiteSpaceAroundCheckν"Add a space at column 26.(Π›΅8θªΘα›1
+m Web:ImgWithoutWidthOrHeightCheckπ":Add both a 'width' and a 'height' attribute to this image.(„”βw8θªΘα›1
+s Web:ImgWithoutWidthOrHeightCheckρ":Add both a 'width' and a 'height' attribute to this image.(Η†έώόÿÿÿÿ8θªΘα›1
+gWeb:WhiteSpaceAroundCheckυ";A whitespace is missing after the starting tag at column 4.(•Υ8θªΘα›1
+EWeb:WhiteSpaceAroundCheckυ"Add a space at column 28.(•Υ8θªΘα›1
+PWeb:BoldAndItalicTagsCheckψ"Replace this <i> tag by <em>.(½£όÿÿÿÿ8θªΘα›1
+_Web:InternationalizationCheckψ")Define this label in the resource bundle.(½£όÿÿÿÿ8θªΘα›1
+KWeb:BoldAndItalicTagsCheckω"Replace this <i> tag by <em>.(Φ®ύΈ8θªΘα›1
+PWeb:BoldAndItalicTagsCheckϊ"Replace this <i> tag by <em>.(ΙΠ©ώÿÿÿÿ8θªΘα›1
+™,Web:LinksIdenticalTextsDifferentTargetsCheckϊ"TUse distinct texts or point to the same target for this link and the one at line 30.(ΙΠ©ώÿÿÿÿ8θªΘα›1
+PWeb:BoldAndItalicTagsCheckϋ"Replace this <i> tag by <em>.(Ό™όÿÿÿÿ8θªΘα›1
+_Web:InternationalizationCheckϋ")Define this label in the resource bundle.(Ό™όÿÿÿÿ8θªΘα›1
+PWeb:BoldAndItalicTagsCheckό"Replace this <i> tag by <em>.(Ϊ½Ώϋÿÿÿÿ8θªΘα›1
+KWeb:NonConsecutiveHeadingCheck`"Do not skip level H5.(Η‰¤Òψÿÿÿÿ8θªΘα›1
+yWeb:MaxLineLengthCheck"KSplit this 214 characters long line (which is greater than 120 authorized).(Δπ‰υÿÿÿÿÿ8θªΘα›1
+yWeb:MaxLineLengthCheck
+"KSplit this 271 characters long line (which is greater than 120 authorized).(Ò“Λÿÿÿÿÿ8θªΘα›1
+yWeb:MaxLineLengthCheck"KSplit this 212 characters long line (which is greater than 120 authorized).(‰¤–ªύÿÿÿÿ8θªΘα›1
+tWeb:MaxLineLengthCheckB"KSplit this 147 characters long line (which is greater than 120 authorized).(σ–Σ8θªΘα›1
+tWeb:MaxLineLengthCheckC"KSplit this 143 characters long line (which is greater than 120 authorized).( ·†“8θªΘα›1
+yWeb:MaxLineLengthCheckD"KSplit this 139 characters long line (which is greater than 120 authorized).(³‹Οθόÿÿÿÿ8θªΘα›1
+tWeb:MaxLineLengthCheckE"KSplit this 136 characters long line (which is greater than 120 authorized).(μΝΞΡ8θªΘα›1
+tWeb:MaxLineLengthCheckN"KSplit this 125 characters long line (which is greater than 120 authorized).(άβΖ²8θªΘα›1
+tWeb:MaxLineLengthCheckO"KSplit this 124 characters long line (which is greater than 120 authorized).(Χ—«ι8θªΘα›1
+tWeb:MaxLineLengthCheckY"KSplit this 220 characters long line (which is greater than 120 authorized).(νΖΤπ8θªΘα›1
+sWeb:MaxLineLengthCheck_"KSplit this 141 characters long line (which is greater than 120 authorized).(ίΣ‚8θªΘα›1
+tWeb:MaxLineLengthChecke"KSplit this 139 characters long line (which is greater than 120 authorized).(ΗΗ€π8θªΘα›1
+yWeb:MaxLineLengthCheckf"KSplit this 131 characters long line (which is greater than 120 authorized).(όΟΛεÿÿÿÿÿ8θªΘα›1
+yWeb:MaxLineLengthCheckg"KSplit this 138 characters long line (which is greater than 120 authorized).(σ‹οΐψÿÿÿÿ8θªΘα›1
+tWeb:MaxLineLengthCheckh"KSplit this 128 characters long line (which is greater than 120 authorized).(€΄εά8θªΘα›1
+yWeb:MaxLineLengthChecki"KSplit this 128 characters long line (which is greater than 120 authorized).(Ύήήχϋÿÿÿÿ8θªΘα›1
+yWeb:MaxLineLengthCheckj"KSplit this 136 characters long line (which is greater than 120 authorized).(€άÿΑϊÿÿÿÿ8θªΘα›1
+yWeb:MaxLineLengthCheckz"KSplit this 123 characters long line (which is greater than 120 authorized).(ΊΎµΙÿÿÿÿÿ8θªΘα›1
+zWeb:MaxLineLengthCheck‚"KSplit this 121 characters long line (which is greater than 120 authorized).(€Σώÿÿÿÿ8θªΘα›1
+zWeb:MaxLineLengthCheckƒ"KSplit this 130 characters long line (which is greater than 120 authorized).(Θ¨Ψ ϊÿÿÿÿ8θªΘα›1
+uWeb:MaxLineLengthCheck—"KSplit this 139 characters long line (which is greater than 120 authorized).(Όΰΐ8θªΘα›1
+uWeb:MaxLineLengthCheck"KSplit this 135 characters long line (which is greater than 120 authorized).(›έ8θªΘα›1
+uWeb:MaxLineLengthCheck™"KSplit this 140 characters long line (which is greater than 120 authorized).(π³ο8θªΘα›1
+zWeb:MaxLineLengthCheck"KSplit this 125 characters long line (which is greater than 120 authorized).(¥η¦Òώÿÿÿÿ8θªΘα›1
+zWeb:MaxLineLengthCheck›"KSplit this 130 characters long line (which is greater than 120 authorized).(†εΈωÿÿÿÿ8θªΘα›1
+zWeb:MaxLineLengthCheckΙ"KSplit this 121 characters long line (which is greater than 120 authorized).(ωίΦÿÿÿÿÿ8θªΘα›1
+uWeb:MaxLineLengthCheckΫ"KSplit this 143 characters long line (which is greater than 120 authorized).(Όΰΐ8θªΘα›1
+uWeb:MaxLineLengthCheckά"KSplit this 139 characters long line (which is greater than 120 authorized).(›έ8θªΘα›1
+uWeb:MaxLineLengthCheckέ"KSplit this 144 characters long line (which is greater than 120 authorized).(π³ο8θªΘα›1
+zWeb:MaxLineLengthCheckή"KSplit this 129 characters long line (which is greater than 120 authorized).(¥η¦Òώÿÿÿÿ8θªΘα›1
+zWeb:MaxLineLengthCheckί"KSplit this 134 characters long line (which is greater than 120 authorized).(†εΈωÿÿÿÿ8θªΘα›1
+zWeb:MaxLineLengthCheck"KSplit this 126 characters long line (which is greater than 120 authorized).(†¥έ«όÿÿÿÿ8θªΘα›1
+zWeb:MaxLineLengthCheck«"KSplit this 152 characters long line (which is greater than 120 authorized).(ªΏό€ψÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheckΊ"KSplit this 162 characters long line (which is greater than 120 authorized).(„Π®ωÿÿÿÿ8‡«Θα›1
+uWeb:MaxLineLengthCheck»"KSplit this 127 characters long line (which is greater than 120 authorized).(ΧΈΓϊ8‡«Θα›1
+zWeb:MaxLineLengthCheckΌ"KSplit this 127 characters long line (which is greater than 120 authorized).(ΨΤÿΎύÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheck½"KSplit this 127 characters long line (which is greater than 120 authorized).(Εθς”όÿÿÿÿ8‡«Θα›1
+uWeb:MaxLineLengthCheck"KSplit this 126 characters long line (which is greater than 120 authorized).(‡Η¦8‡«Θα›1
+uWeb:MaxLineLengthCheckΌ"KSplit this 168 characters long line (which is greater than 120 authorized).(–ΆΈΈ8‡«Θα›1
+uWeb:MaxLineLengthCheckΐ"KSplit this 207 characters long line (which is greater than 120 authorized).(Ωϋ­Υ8‡«Θα›1
+uWeb:MaxLineLengthCheckΔ"KSplit this 132 characters long line (which is greater than 120 authorized).(ϋ·„8‡«Θα›1
+zWeb:MaxLineLengthCheckΘ"KSplit this 127 characters long line (which is greater than 120 authorized).(ηΖ·βόÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheckΙ"KSplit this 124 characters long line (which is greater than 120 authorized).(°„¬όÿÿÿÿ8‡«Θα›1
+uWeb:MaxLineLengthCheckΠ"KSplit this 207 characters long line (which is greater than 120 authorized).(ψή8‡«Θα›1
+zWeb:MaxLineLengthCheckΤ"KSplit this 132 characters long line (which is greater than 120 authorized).(Όΰ¶χϊÿÿÿÿ8‡«Θα›1
+uWeb:MaxLineLengthCheckΦ"KSplit this 137 characters long line (which is greater than 120 authorized).(¬ά»μ8‡«Θα›1
+zWeb:MaxLineLengthCheckΨ"KSplit this 127 characters long line (which is greater than 120 authorized).(ηΖ·βόÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheckΩ"KSplit this 124 characters long line (which is greater than 120 authorized).(°„¬όÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheckΰ"KSplit this 211 characters long line (which is greater than 120 authorized).(ΝαΡόÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheckδ"KSplit this 134 characters long line (which is greater than 120 authorized).(γχάΡϋÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheckθ"KSplit this 127 characters long line (which is greater than 120 authorized).(ηΖ·βόÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheckι"KSplit this 124 characters long line (which is greater than 120 authorized).(°„¬όÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheckΎ"KSplit this 164 characters long line (which is greater than 120 authorized).(ÿέÒΐώÿÿÿÿ8‡«Θα›1
+uWeb:MaxLineLengthCheckΏ"KSplit this 129 characters long line (which is greater than 120 authorized).(λΦ8‡«Θα›1
+zWeb:MaxLineLengthCheckΐ"KSplit this 129 characters long line (which is greater than 120 authorized).(ς‘·Νώÿÿÿÿ8‡«Θα›1
+uWeb:MaxLineLengthCheckή"KSplit this 232 characters long line (which is greater than 120 authorized).(Ά°ε–8‡«Θα›1
+uWeb:MaxLineLengthCheckθ"KSplit this 144 characters long line (which is greater than 120 authorized).(Ρμ­‘8‡«Θα›1
+zWeb:MaxLineLengthCheckι"KSplit this 153 characters long line (which is greater than 120 authorized).(ΖΦφ«ψÿÿÿÿ8‡«Θα›1
+uWeb:MaxLineLengthCheckκ"KSplit this 153 characters long line (which is greater than 120 authorized).(Ò„µχ8‡«Θα›1
+zWeb:MaxLineLengthCheckλ"KSplit this 138 characters long line (which is greater than 120 authorized).(¬π™ÿÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheckμ"KSplit this 128 characters long line (which is greater than 120 authorized).(ίΥ™εωÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheckν"KSplit this 144 characters long line (which is greater than 120 authorized).(‚ƒ‹Άωÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheckξ"KSplit this 141 characters long line (which is greater than 120 authorized).(†ΒΑώÿÿÿÿ8‡«Θα›1
+uWeb:MaxLineLengthCheckτ"KSplit this 253 characters long line (which is greater than 120 authorized).(ζÿª½8‡«Θα›1
+uWeb:MaxLineLengthCheckϊ"KSplit this 144 characters long line (which is greater than 120 authorized).(χ ‰8‡«Θα›1
+uWeb:MaxLineLengthCheckϋ"KSplit this 461 characters long line (which is greater than 120 authorized).(‹«Ω8‡«Θα›1
+zWeb:MaxLineLengthCheck«"KSplit this 159 characters long line (which is greater than 120 authorized).(•ΗΨ›ÿÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheck¬"KSplit this 124 characters long line (which is greater than 120 authorized).(¦φϋÿÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheck®"KSplit this 133 characters long line (which is greater than 120 authorized).(κƒνÿÿÿÿÿ8‡«Θα›1
+zWeb:MaxLineLengthCheckή"KSplit this 138 characters long line (which is greater than 120 authorized).(Σµ£νύÿÿÿÿ8‡«Θα›1
+Y	Web:S5255"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(­­„ª
+X	Web:S5255W"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(“Ξυv
+WWeb:UnclosedTagCheckΌ"/The tag "div" has no corresponding closing tag.(Λ™Υ8‡«Θα›1
