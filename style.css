@@ -146,6 +146,7 @@ body{
 
 .navbar-nav-bottom .nav-item {
     font-size: 16px;
+    font-weight: 700;
     text-decoration: none;
     text-align: center;
     margin-right: 20px;
@@ -164,7 +165,7 @@ body{
 
 
 .navbar-nav-bottom .nav-item:hover::after {
-    border-bottom: 2px solid #f7d700;
+    border-bottom: 3px solid #f7d700;
     color: #094aa5;
     width: 100%;
 
@@ -303,6 +304,39 @@ body{
     color: #0958c4;
 }
 
+/*Service button decoration*/
+
+.service-button .title{
+    color: black;
+    font-size:16px;
+
+}
+
+.service-button .btn:hover .title{
+    color: white;
+}
+
+.service-button i{
+    font-size: 50px;
+    transition: 0.1s;
+}
+
+.service-button .btn{
+    transition: 0.3s;
+}
+
+
+.service-button .btn:hover{
+        box-shadow: 0 0 20px 10px rgba(0,0,0,0.05);
+        transform: scale(0.9);
+}
+
+
+
+
+
+
+
 /*Input section*/
 
 .according-btn-1{
@@ -376,18 +410,7 @@ body{
 
 
 
-/*Account buttons*/
-.service-button .title{
-    color: black;
-}
 
-.service-button .btn:hover .title{
-    color: white;
-}
-
-.service-button i{
-    font-size: 60px;
-}
 
 /*Card service*/
 .card-button .btn{
@@ -488,11 +511,6 @@ body{
 }
 
 
-
-/*.card-img1{*/
-/*    width: 200px;*/
-/*    height: 200px;*/
-/*}*/
 
 .icon1{
     width: 100px;
