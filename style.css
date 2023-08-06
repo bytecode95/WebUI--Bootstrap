@@ -490,44 +490,11 @@ body{
 
 
 
-/*App section*/
-
-.mobile-icon{
-    width: 400px;
-}
-
-.card-image-top{
-    width: 100px;
-}
-
-.app-icon{
-    width: 100px;
-}
+/*App section - need to add hover effect*/
 
 
 
-.btn-bd-light:hover {
-    background-color: white;
-    border: none;
-}
-
-
-
-.icon1{
-    width: 100px;
-}
-
-.icon2{
-    width: 150px;
-    height: 45px;
-}
-
-.app:hover{
-    background: white;
-}
-
-
-
+/*Footer*/
 .top-footer{
     background-color: #0e2e5a;
 }
