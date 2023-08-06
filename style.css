@@ -478,14 +478,15 @@ body{
     border-radius: 100%;
 }
 
-.carousel-indicators-1{
-    width: 10px;
-    height: 10px;
-    border-radius: 100%;
+
+/*Second-Carousel*/
+
+.carousel-indicators .cariusel-btn{
+      width: 12px;
+      height: 12px;
+      border-radius: 100%;
+      margin: 7px;
 }
-
-
-
 
 
 
@@ -563,7 +564,40 @@ ul {
 }
 
 
+/* Newsfeed*/
 
+.MultiCarousel { float: left; overflow: hidden; padding: 15px; width: 100%; position:relative; }
+    .MultiCarousel .MultiCarousel-inner { transition: 1s ease all; float: left; }
+    .MultiCarousel .MultiCarousel-inner .item { float: left;}
+    .MultiCarousel .MultiCarousel-inner .item > div { text-align: start; padding:10px; margin:10px;}
+    .MultiCarousel .leftLst, .MultiCarousel .rightLst { position:absolute; border-radius:50%;top:calc(50% - 20px); }
+    .MultiCarousel .leftLst { left:0; }
+    .MultiCarousel .rightLst { right:0; }
+
+    .MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; background:#ccc; }
+
+.multCaresoul-img{
+    height: 300px;
+    width: 400px;
+}
+
+.pad15 .lead{
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.pad15 p{
+    font-size: 13px;
+}
+
+.newsfeed-btn{
+    transition: 0.3s;
+}
+
+.newsfeed-btn:hover{
+    transform: scale(1.01);
+}
 
 
 
