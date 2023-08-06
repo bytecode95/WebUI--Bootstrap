@@ -611,45 +611,79 @@ img.hover-img{
 
 /*floating contact details*/
 
-.social{
+.fabs{
     position: fixed;
-    right: 0;
+    right: 20px ;
     top: 120px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    transform: translate(260px,0);
+}
 
+.fabs .action{
+    background: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    box-shadow: 0 3px 5px 0 gray;
 }
 
 
-.social a{
-    color: #3c3c3c;
-    background-color: #f7f8f8;
-    font-size: 15px;
-    font-weight: 600;
-    text-decoration: none;
-    display: block;
+
+
+.action i {
+    position: absolute;
+    font-weight: bold;
+    color: blue;
+    background-color: white;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.fabs .btns{
+    position: absolute;
+    text-align: center;
+    bottom: 0px;
     margin: 5px;
-    padding: 8px;
-    width: 300px;
-    text-align: left;
-    border-radius: 50px;
-    transition: 1s;
+    height: 400px;
+    width: 80px;
+    left: 50%;
+    transform: translateX(-85%);
+    transition: 0.3s ease-in-out;
+    z-index: -1;
+}
+
+
+
+.btns.open{
+    bottom: -80px;
 
 }
 
-.social a:hover{
-    transform: translate(-140px, 0);
+.btns .btn{
+    margin-top: 5px;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 100%;
 
 }
 
-.social i{
-    margin-right: 10px ;
-    font-size: 30px;
-    width: 30px;
-    height: 30px;
-    color: #005fea;
-
+.btn .app {
+    position: absolute;
+    font-size: 25px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    color: blue;
+    border-radius: 100%;
+    background-color: white;
+    height: 40px;
+    width: 40px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
 

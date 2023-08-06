@@ -107,3 +107,33 @@ $(document).ready(function () {
     }
 
 });
+
+
+//Floating menu
+
+function toggleBtn(){
+    const Btns = document.querySelector(".btns");
+    const add = document.getElementById("add");
+    const remove = document.getElementById("remove");
+    const btn = document.querySelector(".btns").querySelectorAll("a");
+    Btns.classList.toggle("open");
+    if(Btns.classList.contains("open")){
+        add.style.display = "block";
+        remove.style.display = "none";
+        btn.forEach((e,i)=>{
+            setTimeout(()=>{
+                bottom = -80 * i;
+                e.style.bottom = bottom + "px";
+            }, 70 * i );
+
+        });
+    } else {
+        add.style.display = "none";
+        remove.style.display = "block";
+        btn.forEach(e => {
+            e.style.bottom = "-25px";
+        });
+
+    }
+
+}
