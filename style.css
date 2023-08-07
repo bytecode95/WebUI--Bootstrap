@@ -531,7 +531,7 @@ ul {
     list-style-type: none;
 }
 .viber{
-    width:24px;
+    width:28px;
 }
 
 .bottom-footer{
@@ -626,7 +626,7 @@ img.hover-img{
 .fabs{
     position: fixed;
     right: 20px ;
-    top: 120px;
+    top: 130px;
 }
 
 .fabs .action{
