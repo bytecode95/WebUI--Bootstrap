@@ -1,6 +1,4 @@
 //Multiimage caresoul
-
-
 $(document).ready(function () {
     var itemsMainDiv = ('.MultiCarousel');
     var itemsDiv = ('.MultiCarousel-inner');
@@ -119,7 +117,7 @@ function toggleBtn(){
         remove.style.display = "none";
         btn.forEach((e,i)=>{
             setTimeout(()=>{
-                bottom = -80 * i;
+                bottom = -85 * i;
                 e.style.bottom = bottom + "px";
             }, 70 * i );
 
@@ -128,7 +126,7 @@ function toggleBtn(){
         add.style.display = "none";
         remove.style.display = "block";
         btn.forEach(e => {
-            e.style.bottom = "-25px";
+            e.style.bottom = "-26px";
         });
 
     }

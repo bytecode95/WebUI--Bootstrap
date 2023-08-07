@@ -126,7 +126,10 @@ body{
 
 .dropdown-menu{
     position: absolute;
-    z-index: 999;
+    z-index: 1025;
+    width: 250px;
+    border-radius: 10px;
+    line-height: 25px;
 }
 
 .dropdown-item{
@@ -548,22 +551,8 @@ ul {
     .MultiCarousel .leftLst { left:0; }
     .MultiCarousel .rightLst { right:0; }
 
-    .MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; background:#ccc; }
+    .MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; }
 
-.multCaresoul-img{
-    height: 300px;
-    width: 400px;
-}
-
-.pad15 .lead{
-    font-size: 16px;
-    font-weight: bold;
-
-}
-
-.pad15 p{
-    font-size: 13px;
-}
 
 .newsfeed-btn{
     transition: 0.3s;
@@ -633,8 +622,6 @@ img.hover-img{
 }
 
 
-
-
 .action i {
     position: absolute;
     font-weight: bold;
@@ -655,15 +642,13 @@ img.hover-img{
     height: 400px;
     width: 80px;
     left: 50%;
-    transform: translateX(-85%);
+    transform: translateX(-87%);
     transition: 0.3s ease-in-out;
     z-index: -1;
 }
 
-
-
 .btns.open{
-    bottom: -80px;
+    bottom: -95px;
 
 }
 
