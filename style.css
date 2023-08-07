@@ -219,6 +219,7 @@ body{
     height: 400px;
     width: 1310px;
     padding: 20px;
+    background-color: white;
 }
 
 .nav-item {
@@ -250,7 +251,7 @@ body{
 
 .list-6{
     position: absolute;
-    left: 1100px;
+    left: 1080px;
 }
 
 .navbar-nav-bottom li {
@@ -268,13 +269,7 @@ body{
 
 
 
-.service-button .btn{
-    height: 150px;
-    width: 200px;
-    border: none;
-    box-shadow: 0 0 20px 10px rgba(0,0,0,0.05);
 
-}
 
 /*Secondary menu container*/
 
