@@ -116,7 +116,6 @@ body{
 
 }
 
-
 /* dropdown country menu */
 
 .country-icon{
@@ -206,16 +205,16 @@ body{
 
 .logo-box{
     position: absolute;
-    right: 50px;
+    right: 36px;
     top: 0px;
 }
 
 .combank-logo{
     width: 200px;
     height: 55px;
-
-
 }
+
+
 /* mega menu creation */
 .navbar-nav-bottom .dropdown-menu{
     position: absolute;
