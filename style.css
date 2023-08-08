@@ -481,15 +481,9 @@ body{
     background-color: #094aa4;
 }
 
-/* Banner section */
-.carousel-banner-slide .carousel-indicators{
-    width: 10px;
-    height: 10px;
-    border-radius: 100%;
-}
 
 
-/*Second-Carousel*/
+/*Home-Carousel*/
 
 .carousel-indicators .cariusel-btn{
       width: 12px;
@@ -498,6 +492,12 @@ body{
       margin: 7px;
 }
 
+.content-1{
+  position: absolute;
+  top: 50px;
+  right: 130px;
+
+}
 
 
 /*App section - need to add hover effect*/
