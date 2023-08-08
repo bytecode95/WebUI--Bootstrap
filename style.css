@@ -262,6 +262,7 @@ body{
 }
 
 
+
 /*Hero-Carousel*/
 .content{
   position: absolute;
@@ -305,31 +306,8 @@ body{
     color: #0958c4;
 }
 
-/*Service button decoration*/
 
-.service-button .btn{
-    height: 150px;
-    width: 200px;
-    border: none;
-    box-shadow: 0 0 20px 10px rgba(0,0,0,0.05);
-
-}
-
-
-.service-button .title{
-    color: black;
-    font-size:16px;
-
-}
-
-.service-button .btn:hover .title{
-    color: white;
-}
-
-.service-button i{
-    font-size: 50px;
-    transition: 0.1s;
-}
+/*Input section Service button decoration*/
 
 .service-button .btn{
     transition: 0.3s;
@@ -337,17 +315,19 @@ body{
 
 
 .service-button .btn:hover{
-        box-shadow: 0 0 20px 10px rgba(0,0,0,0.05);
-        transform: scale(0.9);
+    transform: scale(0.9);
+}
+
+.service-button .btn span{
+    transition: 0.1s;
+}
+
+.service-button .btn:hover span{
+    color: white !important;
 }
 
 
-
-
-
-
-
-/*Input section*/
+/*Input section -card*/
 
 .according-btn-1{
     color: black;
@@ -477,6 +457,8 @@ body{
     width: 25px;
 }
 
+/*Banner section*/
+
 .banner{
     background-color: #094aa4;
 }
@@ -493,9 +475,9 @@ body{
 }
 
 .content-1{
-position: absolute;
-top: 50px;
-right: 130px;
+    position: absolute;
+    top: 50px;
+    right: 130px;
 
 }
 
