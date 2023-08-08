@@ -486,18 +486,46 @@ body{
 /*Home-Carousel*/
 
 .carousel-indicators .cariusel-btn{
-      width: 12px;
-      height: 12px;
-      border-radius: 100%;
-      margin: 7px;
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    margin: 7px;
 }
 
 .content-1{
-  position: absolute;
-  top: 50px;
-  right: 130px;
+position: absolute;
+top: 50px;
+right: 130px;
 
 }
+
+.offer-label{
+    position: absolute;
+    top: 0px;
+    right: 50%;
+}
+
+.offer-lable-mark{
+    width: 180px;
+}
+
+.offer-label .offer-lable-mark{
+    position: relative;
+    top: 58px;
+    left: 96px;
+}
+
+.offer-label .offer-lable-handle{
+    position: relative;
+    top: -58px;
+}
+
+.offer-label .content-badge{
+    position: absolute;
+    top: 100px;
+    left: 105px;
+}
+
 
 
 /*App section - need to add hover effect*/
