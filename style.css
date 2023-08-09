@@ -226,7 +226,7 @@ body{
 
 .nav-item {
     margin-left: 60px;
-  }
+}
 
 .list-1 {
     position: absolute;
@@ -270,8 +270,15 @@ body{
 
 }
 
+.content a{
+    font-size: 13px;
+    transition: 0.3s;
+}
 
-
+.content a:hover{
+    animation: pulse 1s infinite;
+    transition: 0.3s;
+}
 
 
 /*Secondary menu container*/
@@ -280,7 +287,6 @@ body{
     font-size: 22px;
     color: #9fa0a8;
     transition: all 0.5s linear;
-
 }
 
 .menu-btn{
@@ -327,6 +333,54 @@ body{
 
 
 /*Input section -card*/
+
+.nav-img{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+
+.navbar-nav-card {
+    padding-top: 0px;
+    list-style: none;
+    padding-left:0px;
+
+ }
+
+
+
+.navbar-nav-card .nav-item .nav-link::after{
+     content:'';
+     display: block;
+     padding-bottom: 15px;
+     transition: 0.05s;
+ }
+
+
+.navbar-nav-card .nav-item .nav-link:hover::after {
+     border-bottom: 2px solid #f7d700;
+     color: #094aa5;
+
+}
+
+.navbar-nav-card .dropdown-menu{
+    position: absolute;
+    height: 150px;
+    width: 600px;
+    margin-left: 50px;
+}
+
+
+.list-1 {
+    position: absolute;
+    left: 0px;
+}
+
+.navbar-nav-card li{
+    position: static;
+}
+
 
 .according-btn-1{
     color: black;
@@ -507,12 +561,29 @@ body{
     left: 105px;
 }
 
+.content-1 a{
+    font-size: 13px;
+    transition: 0.3s;
+}
+
+.content-1 a:hover{
+    animation: pulse 1s infinite;
+    transition: 0.3s;
+}
 
 
 /*App section - need to add hover effect*/
 
 /*More information*/
 
+.info a{
+    transition: all 1s linear;
+
+}
+
+.info:hover a{
+    transform: scale(1.2);
+}
 
 
 
