@@ -576,12 +576,11 @@ body{
 
 /*More information*/
 
-.info a{
-    transition: all 1s linear;
-
+.info i{
+    transition: all 0.5s linear;
 }
 
-.info:hover a{
+.info:hover i{
     transform: scale(1.2);
 }
 
